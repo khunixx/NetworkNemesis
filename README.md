@@ -132,14 +132,8 @@ sudo ./NetworkNemesis.sh
 - Executes **exploits against vulnerable services** if found.  
 
 ### 6. LOGGING & REPORTING  
-- Stores all results in `/var/log/network-nemesis/`.  
+- Stores all results in `/var/log' 
 
 ---
 
-## Disclaimer  
-
-This tool is intended for **legal penetration testing, security research, and educational purposes only**. Unauthorized use against systems without explicit permission is strictly prohibited.  
-
----
-
-This **README.md** provides a **clear, professional, and structured** documentation for **Network Nemesis**, just like your previous projects.  
+ 
