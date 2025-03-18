@@ -13,8 +13,7 @@ This tool enables **offensive security assessments**, helping ethical hackers **
 3. [Prerequisites](#prerequisites)  
 4. [Tested On](#tested-on)  
 5. [Usage](#usage)  
-6. [Script Workflow](#script-workflow)  
-7. [Disclaimer](#disclaimer)  
+6. [Script Workflow](#script-workflow)    
 
 ---
 
